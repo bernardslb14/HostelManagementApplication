@@ -17,6 +17,6 @@
 
 **Concepts:**
 - Processes & Threads;
-- Inter Process Communication;
+- Inter Process Communication (Sockets);
 - Concurrency & Synchronization (Monitors + Reentrant Locks);
 - Graphical User Interface (Java Swing);
