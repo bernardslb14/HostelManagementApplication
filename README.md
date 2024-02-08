@@ -16,4 +16,7 @@
 **Programming Languague:** Java
 
 **Concepts:**
-- Loading...
+- Processes & Threads;
+- Inter Process Communication;
+- Concurrency & Synchronization (Monitors + Reentrant Locks);
+- Graphical User Interface (Java Swing);
